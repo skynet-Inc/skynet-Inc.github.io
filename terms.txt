@@ -1,0 +1,65 @@
+TERMS OF USE
+
+LAST UPDATED: November 11th, 2022
+
+INTRODUCTION & ACCEPTING THE TERMS 
+
+Welcome to cypher. If you continue the use of website or inviting the bot to Discord Server you are agreeing to comply with and be bound by the following terms and conditions of use, govern cypher’s relationship with you in relation to your use of this bot.
+
+By using this bot, you signify your acceptance of these terms and conditions of use (“TOU”). For the purposes of these terms and conditions, “Us”, “Our”, “Bot”, “Service” “the Company” and “We” refers to cypher and “You”, “Client” and “Your” refers to you, the client, visitor user or person using our bot
+
+Through inviting the bot may it collect specific data as described in its Policy (https://
+skynet-Inc.github.io/privacy.txt)
+The intended usage of this data is for core functionalities of the bot.
+
+LICENSE
+
+cypher hereby grants you a revocable and nonexclusive right and license to use cypher’s Site (including any underlying software) and Bot in a manner that is consistent with the other terms in these TOU and cypher’s intended purposes. cypher reserves the right to terminate this License for any or no reason and at any time without notice to you, including, but not limited to, for breach of any term contained in these TOU.
+
+REFUNDS
+[Work in Progress]
+cypher does not offer any refunds for Premium subscriptions or donations. cypher does not allow any transfer of premium subscriptions between servers. 
+
+TERMS OF USE CHANGES
+
+We reserve the right to change, modify, add or remove portions of these terms at any time. Please check these terms regularly prior to using our bot to ensure you are aware of any changes. We will endeavor to highlight any significant or substantive changes to you where possible. If you choose to use our bot then we will regard that use as conclusive evidence of your agreement and acceptance that these terms govern your and cypher's rights and obligations to each other.
+
+LIMITATION OF LIABILITY 
+
+It is an essential pre-condition to you using our bot that you agree and accept that cypher is not legally responsible for any loss or damage you might suffer related to your use of the bot, whether from errors or from omissions in our documents or information, or any services we may offer or from any other use of the bot. Your use of any information or materials on this bot is entirely at your own risk, for which we shall not be liable.
+
+In no event will cypher be liable for any damages whatsoever, including, but not limited to, any direct, indirect, incidental, consequential, special, exemplary, punitive, actual, or other indirect damages, including loss of revenue or income, lost data, loss of goodwill, pain and suffering, emotional distress, or similar damages, even if cypher has been advised of the possibility of such damages, arising out of:
+1.	the use or inability to use the site or any site goods or services
+2.	any transaction conducted through or facilitated by the site
+3.	any claim attributable to errors, omissions, or inaccuracies on the bot/site or data produced by cypher
+4.	any other matter relating to the site or any good or service offered on or through the site
+If you are dissatisfied with these terms, the site, or any good or service offered on or through the site, your sole and exclusive remedy is to discontinue using the site.
+
+DISCLAIMER OF WARRANTY
+
+cypher and the services it provides are provided “as is” and “as available” without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. Your use of the services is at your sole risk. In addition, while cypher attempts to provide a good user experience, we cannot and do not represent or warrant that the data and/or services cypher provides will always be secure or error free or that the services will always be secure or error free. The foregoing disclaimers shall apply to the extend permitted by applicable law. 
+
+CONTENT DISCLAIMERS
+
+cypher does not warrant or guarantee the accuracy, completeness, timeliness, merchantability or fitness for a particular purpose of the information and data contained within or distributed by the Bot. In no event shall cypher be liable to you or anyone else for any decision made or action taken by you in reliance of any information or data found or derived from cypher. 
+
+
+INTELLECTUAL PROPERTY
+
+All rights, title and interest in and to all materials that are part of cypher and the website (including, but not limited to, designs, text, graphics, pictures, video, information, applications, software, music, sound and other files, and their selection and arrangement), except for Your Content, collectively referred to as the "Service Materials,” are, as between the Company and you, owned by the Company and/or its third party licensors. You acknowledge and agree that you shall not acquire any ownership rights whatsoever by downloading Service Materials. You agree that you shall not modify, copy, distribute, frame, reproduce, republish, download, scrape, display, post, transmit, or sell in any form or by any means, in whole or in part, or otherwise exploit the Service Materials without our express prior written permission. You acknowledge that you do not acquire any ownership rights by using the Service or by accessing any Service Materials posted on the Service by the Company, or any derivative works thereof. All rights not expressly granted by these Terms are reserved by the Company and its licensors, and no license is granted hereunder by estoppel, implication or otherwise.
+
+The Bot is not affiliated with, supported or made by Discord Inc.
+Any direct connection to Discord or any of its Trademark objects is purely coincidental.
+
+THIRD-PARTY CONTENT
+
+cypher uses third-party services and datapoints to help us provide services rendered by our Site and bot, but such use does not indicate that we endorse them or are responsible or liable for their actions. In addition, cypher may link to third-party websites to facilitate its provision of services to you. If you use these links, you will leave cypher. Please note that your use of such third-party services will be governed by the terms and privacy policy applicable to the corresponding third party. We are not responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites. You agree that we are not responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service.
+
+
+ACKNOWLEDGEMENT AND CONSENT TO INTRUSION
+
+You understand and acknowledge that the Scanning Services:
+(i)	  Will be inherently invasive and intrusive, and include attempts by cypher or its Agents, as applicable, to gain unauthorized access to Client’s Systems in an effort to make Client aware of those areas in which Client’s System is vulnerable to intrusion, damage, and/or unauthorized use, 
+(ii)	  May result in inadvertent damage to Client’s System as a result of dissimilarities among network systems, 
+(iii)	  May cause excessive amounts of log messages resulting in excessive disk space consumption, 
+(iv)	  May cause degradation of Client’s System as a result of attempts to penetrate it including, but not limited to possible “slowdowns”, “hanging” or “crashing” of Client’s System, possible failure of Client’s System as a result of attempts to invade it, or any other damage resulting from intrusive and/or invasive techniques used to gain access to Client’s System. Client hereby gives its informed consent to intrusion into Client’s Systems by cypher and its Agents for the sole purpose of performing the Evaluation Services provided herein.
